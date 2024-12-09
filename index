@@ -1,0 +1,11 @@
+<html>
+  <style>
+    </style>
+  <body>
+    <h1 class ="başlık">kaç saniye yaşadığınızı öğrenmek için yaşınızı girin</h1>
+    <input class ="input">
+    <button class ="button">hesapla</button>
+    
+    <div class = "saniye"></div>
+  </body>
+</html>
